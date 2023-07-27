@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/USD-to-NRS-Exchanger/static/css/main.ca87bf46.css",
+    "main.js": "/USD-to-NRS-Exchanger/static/js/main.bbd0e21e.js",
+    "static/js/787.f757d148.chunk.js": "/USD-to-NRS-Exchanger/static/js/787.f757d148.chunk.js",
+    "index.html": "/USD-to-NRS-Exchanger/index.html",
+    "main.ca87bf46.css.map": "/USD-to-NRS-Exchanger/static/css/main.ca87bf46.css.map",
+    "main.bbd0e21e.js.map": "/USD-to-NRS-Exchanger/static/js/main.bbd0e21e.js.map",
+    "787.f757d148.chunk.js.map": "/USD-to-NRS-Exchanger/static/js/787.f757d148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca87bf46.css",
+    "static/js/main.bbd0e21e.js"
+  ]
+}
